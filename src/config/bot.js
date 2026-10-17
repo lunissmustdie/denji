@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "LUNISS IS DAD!! | ?help", // required by Discord API, not shown in the client
-        state:  ",     // this is what people actually see
+        state:  "",     // this is what people actually see
         type: 3,               // Custom
       },
     ],
